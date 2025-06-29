@@ -1,6 +1,7 @@
 # network-system-project
 
 This repository contains the materials and configuration files for the Computer Networks project conducted as an alternative to midterm exams.
+Project is done in **Cisco Packet Tracer**.
 
 ---
 
